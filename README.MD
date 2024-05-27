@@ -1,4 +1,3 @@
-```markdown
 # Go Bitcoin Handshake
 
 This project implements a simple Bitcoin handshake protocol in Go. It includes the ability to send and receive version messages and handle verack messages.
